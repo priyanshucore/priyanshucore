@@ -2,20 +2,21 @@
 My name is **Priyanshu Kumar**. I’m an aspiring data analyst, passionate about learning and sharing knowledge.
 
 Welcome to my page; on my Github, you can find:
-- Projects created by me 
-
-## 📧 You can contact me on:
-
-Let's stay in touch! Feel free to connect with me on the following platforms:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/prynshukumar])
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](priyanshu9@outlook.in)
+- Projects created by me
+- Resources shared by me
 
 *I am open to new opportunities.*
 
 ## 📜 Github stats:
 
-![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshucore&show_icons=true&theme=transparent)
+![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshucore&amp;rank_icon=github&show_icons=true&theme=shadow_red)
+
+## 📧 You can contact me on:
+
+Let's stay in touch! Feel free to connect with me on the following platforms:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prynshukumar)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://www.priyanshu9@outlook.in)
 
 
 ---
@@ -36,7 +37,6 @@ I enjoy expanding my knowledge, and because of that, I am open to learning new t
 
 ## 🔢 Most Used Languages
 
-Here’s a quick look at the languages I work with the most:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshucore&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshucore&hide_progress=true&theme=shadow_red)
 
 **Profile views**: ![View count](https://komarev.com/ghpvc/?username=priyanshucore)
