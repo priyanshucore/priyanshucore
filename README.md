@@ -1,5 +1,5 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Priyanshu Kumar
-My name is **Priyanshu Kumar**. I’m an aspiring data analyst, passionate about learning and sharing knowledge. 
+My name is **Priyanshu Kumar**. I’m an aspiring data analyst, passionate about learning and sharing knowledge.  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" alt="Coding" width="220">  
 
 Welcome to my page; on my Github, you can find:
 - Projects created by me
@@ -11,7 +11,7 @@ Welcome to my page; on my Github, you can find:
 ## 📜 Github stats:
 
 ![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshucore&amp;rank_icon=github&show_icons=true&theme=shadow_red)
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" alt="Coding" width="250">  
+
 
 
 ## 📧 You can contact me on:
