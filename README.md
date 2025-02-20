@@ -16,7 +16,6 @@ Let's stay in touch! Feel free to connect with me on the following platforms:
 ## 📜 Github stats:
 
 ![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshucore&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshucore&hide_progress=true)
 
 
 ---
@@ -34,5 +33,10 @@ I enjoy expanding my knowledge, and because of that, I am open to learning new t
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+## 🔢 Most Used Languages
+
+Here’s a quick look at the languages I work with the most:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshucore&hide_progress=true)
 
 **Profile views**: ![View count](https://komarev.com/ghpvc/?username=priyanshucore)
