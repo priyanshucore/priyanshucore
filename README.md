@@ -9,13 +9,13 @@ Welcome to my page; on my Github, you can find:
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/prynshukumar])
-![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](priyanshu9@outlook.in)
 
 *I am open to new opportunities.*
 
 #### 📜 Github stats:
 
-![](https://github-readme-stats.vercel.app/api?username=priyanshucore&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshucore&show_icons=true&theme=transparent)
 
 
 ---
