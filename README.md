@@ -4,7 +4,7 @@ My name is **Priyanshu Kumar**. I’m an aspiring data analyst, passionate about
 Welcome to my page; on my Github, you can find:
 - Projects created by me 
 
-#### 📧 You can contact me on:
+## 📧 You can contact me on:
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
@@ -13,16 +13,17 @@ Let's stay in touch! Feel free to connect with me on the following platforms:
 
 *I am open to new opportunities.*
 
-#### 📜 Github stats:
+## 📜 Github stats:
 
 ![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshucore&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshucore&hide_progress=true)
 
 
 ---
 
 I enjoy expanding my knowledge, and because of that, I am open to learning new tools and technologies.
 
-#### Technology that I am using:
+## Technologies that I am using:
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
