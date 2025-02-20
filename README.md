@@ -15,8 +15,7 @@ Let's stay in touch! Feel free to connect with me on the following platforms:
 
 #### 📜 Github stats:
 
-![GITHUB Stats](https://raw.githubusercontent.com/priyanshucore/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/priyanshucore/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![GITHUB Stats](https://raw.githubusercontent.com/priyanshucore/github-stats/master/generated/overview.svg#gh-light-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/priyanshucore/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://github-readme-stats.vercel.app/api?username=priyanshucore&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 
 ---
