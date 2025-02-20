@@ -1,12 +1,12 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Priyanshu Kumar
-My name is **Priyanshu Kumar**. I’m an aspiring data analyst, passionate about learning and sharing knowledge.
-
+My name is **Priyanshu Kumar**. I’m an aspiring data analyst, passionate about learning and sharing knowledge.   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" alt="Coding" width="200">
 Welcome to my page; on my Github, you can find:
 - Projects created by me
 - Resources shared by me
 
-*I am open to new opportunities.*
+📫 How to reach me **priyanshu9@outlook.in**
 
+---
 ## 📜 Github stats:
 
 ![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshucore&amp;rank_icon=github&show_icons=true&theme=shadow_red)
@@ -16,14 +16,13 @@ Welcome to my page; on my Github, you can find:
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prynshukumar)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://www.priyanshu9@outlook.in)
 
 
 ---
 
 I enjoy expanding my knowledge, and because of that, I am open to learning new tools and technologies.
 
-## Technologies that I am using:
+## Tools and Technologies that I am using:
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
